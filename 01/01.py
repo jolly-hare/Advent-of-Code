@@ -16,7 +16,6 @@ def part1(data):
     return max(elves)
 
 
-
 def part2(data):
     elves = list()
     cumulativesum = 0
@@ -28,7 +27,6 @@ def part2(data):
             cumulativesum += int(data[i])
     elves_sorted = sorted(elves, reverse=True)
     return sum(elves_sorted[:3])
-
 
 
 def solve(puzzle_input):
