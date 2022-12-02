@@ -19,8 +19,8 @@ if not os.path.exists(day_zeroed):
         shutil.copy('0X.example', examplefile)
     if not os.path.exists(solutionfile):
         shutil.copy('empty.py', solutionfile)
-    resp = requests.get(f'https://adventofcode.com/2022/day/{str(day_num)}/input', cookies=cookie, headers=header)
     if not os.path.exists(inputfile):
+        resp = requests.get(f'https://adventofcode.com/2022/day/{str(day_num)}/input', cookies=cookie, headers=header)
         with open(f"{inputfile}", 'w') as f:
             f.write(resp.text.strip("\n"))
     else:
