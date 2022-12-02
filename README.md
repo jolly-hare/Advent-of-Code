@@ -14,8 +14,11 @@ Currently: 4 stars
 ![image](https://user-images.githubusercontent.com/91928992/205315656-95c007e1-e10d-4eec-bf42-2683be1e552a.png)
 
 
-- [x] Create a template script to build from each day
-- [x] Create a "new day" script that creates a directory, files, and gets input
+:heavy_check_mark: Create a template script to build from each day
+
+
+:heavy_check_mark: Create a "new day" script that creates a directory, files, and gets input
+
 
 # Why
 Starting with a blank state because I need the practice. I'll try to post my daily solutions if I find the correct answer(s). In later days, I may spend some time cleaning up past solutions to more optimized or elegant alternate solutions.
