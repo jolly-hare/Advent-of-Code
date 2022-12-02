@@ -10,5 +10,8 @@ Hoping to get at least 25 stars (1 star for solving each of two parts) of the 50
 # Status
 Currently: 4 stars
 
+- [x] Create a template script to build from each day
+- [x] Create a "new day" script that creates a directory, files, and gets input
+
 # Why
 Starting with a blank state because I need the practice. I'll try to post my daily solutions if I find the correct answer(s). In later days, I may spend some time cleaning up past solutions to more optimized or elegant alternate solutions.
