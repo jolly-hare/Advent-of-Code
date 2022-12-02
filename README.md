@@ -10,6 +10,10 @@ Hoping to get at least 25 stars (1 star for solving each of two parts) of the 50
 # Status
 Currently: 4 stars
 
+
+![image](https://user-images.githubusercontent.com/91928992/205315656-95c007e1-e10d-4eec-bf42-2683be1e552a.png)
+
+
 - [x] Create a template script to build from each day
 - [x] Create a "new day" script that creates a directory, files, and gets input
 
