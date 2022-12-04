@@ -4,8 +4,8 @@ import requests
 
 day_num = "3"
 
-cookie = {'session': '53616c7465645f5f5a1042cc185996f38cbee45ad106b68477257c0431043ab0f717899549dab741f633a39c654f9bdc03c75364140b53ca0a861dd99f44d972'}
-header = {"User-Agent": "github.com/jolly-hare/Advent-of-Code-2022; version 1.0; contact twitter @ts_hare"}
+cookie = {'session': 'SESSION'}
+header = {"User-Agent": "user agent string - include repo, version, contact details"}
 if len(day_num) == 1:
     day_zeroed = "0" + day_num
 else:
