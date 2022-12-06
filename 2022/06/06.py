@@ -7,7 +7,6 @@ def parse(file_input):
 
 
 def part1(data):
-    buffer = [x for x in data[:4]]
     for i in range(4, len(data)):
         buffer = [x for x in data[i-4:i]]
         if len(set(buffer)) == 4:
@@ -15,7 +14,6 @@ def part1(data):
 
 
 def part2(data):
-    buffer = [x for x in data[:14]]
     for i in range(14, len(data)):
         buffer = [x for x in data[i-14:i]]
         if len(set(buffer)) == 14:
