@@ -4,10 +4,25 @@ My code for the Advent Of Code 2022 programming puzzles.
 
 Advent Of Code (https://adventofcode.com/) is a registered trademark in the United States. All copyrights for puzzle content and input data are held by Eric Wastl, https://twitter.com/ericwastl and https://github.com/topaz.
 
-# Goal
+# How to Use
+1. Define *your* AoC API session key and User-Agent within `newday.py`
+2. Run `newday.py`
+    - creates a new directory for the defined day
+    - creates dynamic `aoc_template.py` as `{dayX}.py`
+    - creates an empty example file as `{dayX}.example`
+    - downloads *your* data from AoC as `{dayX}.input`
+3. Modify `{dayX}.py` to solve for the day's problem
+
+**Successul Output of `{dayX}.py`**
+
+![image](https://user-images.githubusercontent.com/91928992/205967992-da5617d2-8f10-4cf2-af3b-8768c4f36635.png)
+
+
+
+# My Goal
 Hoping to get at least 25 stars (1 star for solving each of two parts) of the 50 stars possible.
 
-# Status
+# My Status
 Currently: 12 stars
 
 
@@ -18,6 +33,9 @@ Currently: 12 stars
 
 
 :heavy_check_mark: Create a "new day" script that creates a directory, files, and gets input --> make upgrades
+
+
+&#9744; Have `new_day.py` autopopulate `X.example` and `X.py` with AoC problem page's example data and test answers
 
 
 # Why
