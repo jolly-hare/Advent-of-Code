@@ -8,10 +8,10 @@ Advent Of Code (https://adventofcode.com/) is a registered trademark in the Unit
 Hoping to get at least 25 stars (1 star for solving each of two parts) of the 50 stars possible.
 
 # Status
-Currently: 10 stars
+Currently: 12 stars
 
 
-![image](https://user-images.githubusercontent.com/91928992/205701045-baaeec4b-3bcb-493d-a021-1bfad3519062.png)
+![image](https://user-images.githubusercontent.com/91928992/205961272-33a1f87f-02d2-4036-87a9-993fa8750d4d.png)
 
 
 :heavy_check_mark: Create a template script to build from each day --> make upgrades
