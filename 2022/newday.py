@@ -19,7 +19,8 @@ if not os.path.exists(day_zeroed):
     examplefile = os.path.join(day_zeroed, day_zeroed + '.example')
     solutionfile = os.path.join(day_zeroed, day_zeroed + '.py')
     if not os.path.exists(examplefile):
-        shutil.copy('0X.example', examplefile)
+        with open(examplefile, 'x') as f:
+            pass
         print(f'new empty example file created as: {examplefile}')
     if not os.path.exists(solutionfile):
         with open('aoc_template.py') as f:
