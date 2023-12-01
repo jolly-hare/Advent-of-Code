@@ -24,7 +24,8 @@ Hoping to get at least 20 stars (1 star for solving each of two parts) of the 50
 Currently: 0 stars
 
 From 2022, I'm starting with:
-:heavy_check_mark: Templated starter script to build from each day
+
+:heavy_check_mark: Template starter script to build from each day
 
 
 :heavy_check_mark: A "new day" script that creates a directory, files, and gets puzzle input
