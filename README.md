@@ -13,7 +13,8 @@ Collecting Stars, building skills, learning tricks
 2022: 20 stars
 
 2023 target: 20 stars
-2023 colelcted: 0 stars
+
+2023 collected: 0 stars
 
 # Features
 :heavy_check_mark: Past solutions
