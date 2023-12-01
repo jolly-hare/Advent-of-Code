@@ -10,7 +10,10 @@ Collecting Stars, building skills, learning tricks
 # Status
 2021: 17 stars
 
-2022: 4 stars (ongoing)
+2022: 20 stars
+
+2023 target: 20 stars
+2023 colelcted: 0 stars
 
 # Features
 :heavy_check_mark: Past solutions
