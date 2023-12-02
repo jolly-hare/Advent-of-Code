@@ -14,16 +14,16 @@ Advent Of Code (https://adventofcode.com/) is a registered trademark in the Unit
     - creates dynamic `aoc_template.py` as `{dayX}.py`
     - creates an empty example file as `{dayX}.example`
     - downloads *your* data from AoC as `{dayX}.input`
-4. Copy your exampel data into `{dayX}.example` and modify `{dayX}.py` to solve for the day's problem
+4. Copy your example data into `{dayX}.example` and modify `{dayX}.py` to solve for the day's problem
 
 
 # My Goal
 Hoping to get at least 20 stars (1 star for solving each of two parts) of the 50 stars possible.
 
 # My Status
-Currently: 0 stars
+Currently: 4 stars
 
-From 2022, I'm starting with:
+Bulding from 2022, I'm starting 2023 with:
 
 :heavy_check_mark: Template starter script to build from each day
 
