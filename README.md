@@ -14,7 +14,7 @@ Collecting Stars, building skills, learning tricks
 
 2023: 20 stars
 
-2023 collected: ?? stars --> [2023 main](https://github.com/jolly-hare/Advent-of-Code/blob/main/2023/readme.md)
+2023 collected: 6 stars --> [2023 main](https://github.com/jolly-hare/Advent-of-Code/blob/main/2023/readme.md)
 
 # Features
 :heavy_check_mark: Past solutions
